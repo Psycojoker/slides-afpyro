@@ -1,0 +1,9 @@
+landslide
+ipdb
+ipython
+django
+django-extensions
+werkzeug
+django-pdb
+django-debug-toolbar
+debug
