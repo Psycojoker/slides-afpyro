@@ -39,6 +39,8 @@ Installation:
 
 Moins à retenir ! Import aussi "see".
 
+Remarque: vous connaissez pprint ?
+
 [https://github.com/narfdotpl/debug](https://github.com/narfdotpl/debug)
 
 ---
@@ -160,7 +162,7 @@ Ou:
 
 [https://github.com/tomchristie/django-pdb](https://github.com/tomchristie/django-pdb)
 
----------------
+---
 
 # Bonus
 
@@ -174,4 +176,13 @@ Ou:
 
 ---
 
-# Questions ?
+# Conclusion
+
+- oubliez pdb, utilisez ipdb
+- pip install debug; import debug
+- ipython --pdb script.py
+- python manage.py runserver_plus
+
+---
+
+# Questions / vos trucs ?

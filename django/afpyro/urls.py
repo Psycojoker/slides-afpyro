@@ -7,6 +7,7 @@ admin.autodiscover()
 
 def pouet(request):
     print Site.objects.all()
+    import debug
     return render(request, 'home.haml', {'foobar': 'baz'})
 
 urlpatterns = patterns('',
